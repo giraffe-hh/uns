@@ -49,21 +49,36 @@
     </nav>
 
     <!-- HERO -->
+     <!-- <section id="hero" class="min-vh-100 d-flex align-items-center text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 data-aos="fade-left" class="text-uppercase text-white fw-semibold display-1">Welcome to elixir</h1>
+                    <h5 class="text-white mt-3 mb-4" data-aos="fade-right">WE ARE TEAM OF TALENTED DESIGNERS MAKING WEBSITES WITH BOOTSTRAP</h5>
+                    <div data-aos="fade-up" data-aos-delay="50">
+                        <a href="#" class="btn btn-brand me-2">Get Started</a>
+                        <a href="#" class="btn btn-light ms-2">Our Portfolio</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <!-- HOME -->
     <section id="home" class="min-vh-100 d-flex align-items-center text-center">
         <div id="imageCarousel" class="carousel slide container-fluid px-0" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <img src="./assets/images/carousel-1.jpg" class="d-block w-100 carousel-image" alt="Slide 1">
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 data-aos="fade-left" class="text-white fw-semibold display-4">Welcome to UNS</h1>
-                        <h5 class="text-white mt-3 mb-4" data-aos="fade-right">Universitas Sebelas Maret</h5>
+                        <h1 data-aos="fade-left" class="text-white fw-semibold display-4">WELCOME TO UNS</h1>
+                        <h3 class="text-white mt-3 mb-4" data-aos="fade-right">Universitas Sebelas Maret</h3>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="./assets/images/carousel-2.jpg" class="d-block w-100 carousel-image" alt="Slide 2">
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 data-aos="fade-left" class="text-white fw-semibold display-4">Welcome to UNS</h1>
-                        <h5 class="text-white mt-3 mb-4" data-aos="fade-right">Universitas Sebelas Maret</h5>
+                        <h1 data-aos="fade-left" class="text-white fw-semibold display-4">WELCOME TO UNS</h1>
+                        <h3 class="text-white mt-3 mb-4" data-aos="fade-right">Universitas Sebelas Maret</h3>
                     </div>
                 </div>
             </div>
@@ -84,7 +99,7 @@
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
                     <div class="section-title">
-                        <h1 class="display-4 fw-semibold">About us</h1>
+                        <h1 class="display-4 fw-semibold">Sambutan</h1>
                         <div class="line"></div>
                         <p>Universitas Sebelas Maret (UNS) Surakarta<BR>Mangesthi Luhur Ambangun Nagara</p>
                     </div>
@@ -92,12 +107,25 @@
             </div>
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-6" data-aos="fade-down" data-aos-delay="50">
-                    <img src="./assets/images/person-2.jpg" alt="">
+                    <img src="./assets/images/person-2.jpg" alt="" style="border-radius: 8px; width: 450px;" class="mx-auto d-block">
                 </div>
-                <div data-aos="fade-down" data-aos-delay="150" class="col-lg-5">
-                    <h1>Sambutan</h1>
-                    <p class="mt-3 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Congue mauris rhoncus aenean vel elit scelerisque. Quisque egestas diam in arcu. Mi eget mauris pharetra et. Habitant morbi tristique senectus et. Sed elementum tempus egestas sed. Tellus at urna condimentum mattis pellentesque id nibh tortor. In nulla posuere sollicitudin aliquam. Consequat semper viverra nam libero justo laoreet sit. Lacus sed viverra tellus in hac habitasse platea dictumst. Ut diam quam nulla porttitor massa. Lorem ipsum dolor sit amet consectetur. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. In ornare quam viverra orci. Dui nunc mattis enim ut tellus. Quis blandit turpis cursus in hac habitasse. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Sagittis purus sit amet volutpat consequat mauris.</p>
+                <div data-aos="fade-down" data-aos-delay="150" class="col-lg-6">
+                        <!-- Sambutan -->
+                        <div class="mb-4">
+                            <div class="p-4">
+                                <div class="d-flex">
+                                    <div class="flex-shrink-0"><i class="ri-double-quotes-l display-4"></i></div>
+                                    <div class="ms-4">
+                                        <p class="mb-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Congue mauris rhoncus aenean vel elit scelerisque. Quisque egestas diam in arcu. Mi eget mauris pharetra et. Habitant morbi tristique senectus et. Sed elementum tempus egestas sed. Tellus at urna condimentum mattis pellentesque id nibh tortor. In nulla posuere sollicitudin aliquam. Consequat semper viverra nam libero justo laoreet sit. Lacus sed viverra tellus in hac habitasse platea dictumst. Ut diam quam nulla porttitor massa. Lorem ipsum dolor sit amet consectetur. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. In ornare quam viverra orci. Dui nunc mattis enim ut tellus. Quis blandit turpis cursus in hac habitasse. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Sagittis purus sit amet volutpat consequat mauris.</p>
+                                        <div class="small text-muted">- Nama, Jabatan</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                 </div>
+                <!-- <div data-aos="fade-down" data-aos-delay="150" class="col-lg-5">
+                    <p class="mt-4 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Congue mauris rhoncus aenean vel elit scelerisque. Quisque egestas diam in arcu. Mi eget mauris pharetra et. Habitant morbi tristique senectus et. Sed elementum tempus egestas sed. Tellus at urna condimentum mattis pellentesque id nibh tortor. In nulla posuere sollicitudin aliquam. Consequat semper viverra nam libero justo laoreet sit. Lacus sed viverra tellus in hac habitasse platea dictumst. Ut diam quam nulla porttitor massa. Lorem ipsum dolor sit amet consectetur. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. In ornare quam viverra orci. Dui nunc mattis enim ut tellus. Quis blandit turpis cursus in hac habitasse. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Sagittis purus sit amet volutpat consequat mauris.</p>
+                </div> -->
             </div>
         </div>
     </section>
@@ -238,7 +266,7 @@
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
                     <div class="section-title">
                         <div class="line"></div>
-                        <h5>Subbagian Penatausahaan Penerimaan, Pengeluaran, dan Pinjaman (P4)</h5>
+                        <h3>Subbagian Penatausahaan Penerimaan, Pengeluaran, dan Pinjaman (P4)</h3>
                     </div>
                 </div>
             </div>
@@ -370,7 +398,7 @@
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
                     <div class="section-title">
                         <div class="line"></div>
-                        <h5>Subbagian Akuntansi, Pelaporan Keuangan</h5>
+                        <h3>Subbagian Akuntansi, Pelaporan Keuangan</h3>
                     </div>
                 </div>
             </div>
@@ -426,7 +454,7 @@
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
                     <div class="section-title">
                         <div class="line"></div>
-                        <h5>Subbagian Inventarisasi, dan Penatausahaan Aset</h5>
+                        <h3>Subbagian Inventarisasi, dan Penatausahaan Aset</h3>
                     </div>
                 </div>
             </div>
@@ -463,7 +491,7 @@
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
                     <div class="section-title">
                         <div class="line"></div>
-                        <h5>Subbagian Pemeliharaan Aset</h5>
+                        <h3>Subbagian Pemeliharaan Aset</h3>
                     </div>
                 </div>
             </div>
@@ -482,7 +510,7 @@
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
                     <div class="section-title">
                         <div class="line"></div>
-                        <h5>Subbagian Pajak</h5>
+                        <h3>Subbagian Pajak</h3>
                     </div>
                 </div>
             </div>
@@ -503,6 +531,22 @@
                             <h5 class="card-title">Sela Naufal Linda, A.Md.</h5>
                             <p class="card-text">Pengadministrasi Pajak</p>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- BANNER -->
+    <section id="banner" class="d-flex align-items-center text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 data-aos="fade-left" class="text-white fw-semibold display-1">WELCOME TO UNS</h1>
+                    <h3 class="text-white mt-3 mb-4" data-aos="fade-right">Universitas Sebelas Maret</h3>
+                    <div data-aos="fade-up" data-aos-delay="50">
+                        <a href="#" class="btn btn-brand me-2">Get Started</a>
+                        <a href="#services" class="btn btn-light ms-2">Our Service</a>
                     </div>
                 </div>
             </div>
@@ -554,8 +598,55 @@
         </div>
     </section>
 
+    <!-- CONTACT NEW -->
+    <section id="contact2" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
+                    <div class="section-title">
+                        <h1 class="display-4 fw-semibold">Contact us</h1>
+                        <div class="line"></div>
+                        <p>Universitas Sebelas Maret (UNS) Surakarta<BR>Mangesthi Luhur Ambangun Nagara</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row justify-content-between align-items-center">
+                <div class="col-lg-6" data-aos="fade-down" data-aos-delay="50">
+                    <img src="./assets/images/logo-uns.png" alt="" style="width: 500px;">
+                </div>
+                <div data-aos="fade-down" data-aos-delay="150" class="col-lg-5">
+                    <div class="d-flex pt-4 mb-3">
+                        <div class="iconbox me-4">
+                            <i class="ri-school-fill"></i>
+                        </div>
+                        <div>
+                            <h5>Alamat</h5>
+                            <p>Jalan Ir. Sutami 36 Kentingan, Jebres, Surakarta, Jawa Tengah. Indonesia 57126.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex mb-3">
+                        <div class="iconbox me-4">
+                            <i class="ri-customer-service-fill"></i>
+                        </div>
+                        <div>
+                            <p>
+                            Telepon 0271-646994<br>
+                            Faksimile 0271-646655<br>
+                            WA (+62) 851 5672 3341<br>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="d-flex mb-3" data-aos="fade-up" data-aos-delay="50">
+                        <a href="mailto:humas@mail.uns.ac.id" class="btn btn-brand me-2"><i class="ri-mail-fill"></i> Send Email</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- CONTACT -->
-    <section class="section-padding bg-light" id="contact">
+    <!-- <section class="section-padding bg-light" id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
@@ -591,7 +682,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- FOOTER -->
     <footer class="bg-dark">
