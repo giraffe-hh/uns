@@ -41,7 +41,7 @@
                         <a class="nav-link" href="#blog">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact</a>
+                        <a class="nav-link" href="#contactus">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -599,7 +599,7 @@
     </section>
 
     <!-- CONTACT NEW -->
-    <section id="contact2" class="section-padding">
+    <section id="contactus" class="section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
