@@ -184,10 +184,10 @@
             <!-- baris pertama -->
             <div class="row g-4 text-center" style="align-items: stretch;">
                 <div class="col-md-4 offset-md-4" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-2.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Taufiq Arifin, S.E., M.Sc., Ph.D, Ak</h5>
+                            <h6 class="card-title">Taufiq Arifin, S.E., M.Sc., Ph.D, Ak</h6>
                             <p class="card-text">Direktur Direktorat Keuangan dan Optimalisasi Aset</p>
                         </div>
                     </div>
@@ -196,19 +196,19 @@
             <!-- baris kedua -->
             <div class="row g-4 text-center mt-4 justify-content-center" style="align-items: stretch;">
                 <div class="col-md-3" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Retno Purwaningsih, S.IP.</h5>
+                            <h6 class="card-title">Retno Purwaningsih, S.IP.</h6>
                             <p class="card-text">Koordinator Bagian Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Umi Haryaningsih, S.T.</h5>
+                            <h6 class="card-title">Umi Haryaningsih, S.T.</h6>
                             <p class="card-text">Koordinator Bagian Aset dan Logistik</p>
                         </div>
                     </div>
@@ -217,46 +217,46 @@
             <!-- baris ketiga -->
             <div class="row g-4 text-center mt-4 justify-content-center" style="align-items: stretch;">
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Hermawan Rudhianto, S.E., M.Si.</h5>
+                            <h6 class="card-title">Hermawan Rudhianto, S.E., M.Si.</h6>
                             <p class="card-text">Subkoordinator Penatausahaan Penerimaan, Pengeluaran, dan Pinjaman (P4)</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Marsilia Dika Pramesti, S.E.</h5>
+                            <h6 class="card-title">Marsilia Dika Pramesti, S.E.</h6>
                             <p class="card-text">Subkoordinator Akuntansi, Pelaporan Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Eko Rosyid Nopiyanto, S.Pd.</h5>
+                            <h6 class="card-title">Eko Rosyid Nopiyanto, S.Pd.</h6>
                             <p class="card-text">Subkoordinator Inventarisasi, dan Penatausahaan Aset</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Endri Wiyanto, S.Kom.</h5>
+                            <h6 class="card-title">Endri Wiyanto, S.Kom.</h6>
                             <p class="card-text">Subkoordinator Pemeliharaan Aset</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Dr. Eko Arief Sudaryono, M.Si., Ak</h5>
+                            <h6 class="card-title">Dr. Eko Arief Sudaryono, M.Si., Ak</h6>
                             <p class="card-text">Subkoordinator Subbagian Pajak</p>
                         </div>
                     </div>
@@ -272,37 +272,37 @@
             </div>
             <div class="row g-4 text-center justify-content-center" style="align-items: stretch;">
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Soeharmining</h5>
+                            <h6 class="card-title">Soeharmining</h6>
                             <p class="card-text">Bendahara (Pengeluaran)</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Hagung Rihanjoyo, S.E.</h5>
+                            <h6 class="card-title">Hagung Rihanjoyo, S.E.</h6>
                             <p class="card-text">Bendahara (Penerimaan)</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Ika Irawati Muslihatin, S.E</h5>
+                            <h6 class="card-title">Ika Irawati Muslihatin, S.E</h6>
                             <p class="card-text">BPP Kantor Pusat 1</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Ninik Hartati, A.Md.</h5>
+                            <h6 class="card-title">Ninik Hartati, A.Md.</h6>
                             <p class="card-text">BPP Kantor Pusat 2</p>
                         </div>
                     </div>
@@ -310,37 +310,37 @@
             </div>
             <div class="row g-4 text-center mt-4 justify-content-center" style="align-items: stretch;">
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Sri Lestari</h5>
+                            <h6 class="card-title">Sri Lestari</h6>
                             <p class="card-text">BPP PTNBH</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Dony Setiawan, S.Kom.</h5>
+                            <h6 class="card-title">Dony Setiawan, S.Kom.</h6>
                             <p class="card-text">Bendahara Pengeluaran Pembantu</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Widodo</h5>
+                            <h6 class="card-title">Widodo</h6>
                             <p class="card-text">Pengadministrasi Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Sugito, S.E.</h5>
+                            <h6 class="card-title">Sugito, S.E.</h6>
                             <p class="card-text">Pengelola Gaji</p>
                         </div>
                     </div>
@@ -348,46 +348,46 @@
             </div>
             <div class="row g-4 text-center mt-4 justify-content-center" style="align-items: stretch;">
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">A. Bervian Sonny Willyanto, A.Md.</h5>
+                            <h6 class="card-title">A. Bervian Sonny Willyanto, A.Md.</h6>
                             <p class="card-text">Pengadministrasi Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Enny Suryani, S.Pd.</h5>
+                            <h6 class="card-title">Enny Suryani, S.Pd.</h6>
                             <p class="card-text">Pengadministrasi Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Irwanto, S.E.</h5>
+                            <h6 class="card-title">Irwanto, S.E.</h6>
                             <p class="card-text">Pengadministrasi Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Reza Wahyu Wardani, S.Kom</h5>
+                            <h6 class="card-title">Reza Wahyu Wardani, S.Kom</h6>
                             <p class="card-text">Pengolah Data</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Nur Singgih, S.Kom.</h5>
+                            <h6 class="card-title">Nur Singgih, S.Kom.</h6>
                             <p class="card-text">Pengolah Data</p>
                         </div>
                     </div>
@@ -404,46 +404,46 @@
             </div>
             <div class="row g-4 text-center justify-content-center" style="align-items: stretch;">
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Bakti Nur Rohmah, S.Pd.</h5>
+                            <h6 class="card-title">Bakti Nur Rohmah, S.Pd.</h6>
                             <p class="card-text">Penyusun Laporan Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Lelya Fetri Apriliana, S.Pd.</h5>
+                            <h6 class="card-title">Lelya Fetri Apriliana, S.Pd.</h6>
                             <p class="card-text">Penyusun Laporan Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Pradana Arief Yunanto, S.E</h5>
+                            <h6 class="card-title">Pradana Arief Yunanto, S.E</h6>
                             <p class="card-text">Pengolah Data Laporan Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Yumna Rifdatul Ummah, S.Ak.</h5>
+                            <h6 class="card-title">Yumna Rifdatul Ummah, S.Ak.</h6>
                             <p class="card-text">Pengolah Data Laporan Keuangan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Mulyono</h5>
+                            <h6 class="card-title">Mulyono</h6>
                             <p class="card-text">Pengadministrasi Umum</p>
                         </div>
                     </div>
@@ -460,28 +460,28 @@
             </div>
             <div class="row g-4 text-center justify-content-center" style="align-items: stretch;">
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Lestari Widodo</h5>
+                            <h6 class="card-title">Lestari Widodo</h6>
                             <p class="card-text">Pengadministrasi Gudang</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Rasyiid Ghoniyyu Rauufuddin, S.Pd.</h5>
+                            <h6 class="card-title">Rasyiid Ghoniyyu Rauufuddin, S.Pd.</h6>
                             <p class="card-text">Pengelola Barang Milik Negara (BMN)</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Andi Fitriono, S.Pd.</h5>
+                            <h6 class="card-title">Andi Fitriono, S.Pd.</h6>
                             <p class="card-text">Pengadministrasi Barang Milik Negara</p>
                         </div>
                     </div>
@@ -497,10 +497,10 @@
             </div>
             <div class="row g-4 text-center justify-content-center" style="align-items: stretch;">
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Anung Anindito Tohari, S.Pd</h5>
+                            <h6 class="card-title">Anung Anindito Tohari, S.Pd</h6>
                             <p class="card-text">Pengolah Data</p>
                         </div>
                     </div>
@@ -516,19 +516,19 @@
             </div>
             <div class="row g-4 text-center justify-content-center" style="align-items: stretch;">
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Siti Khotimah, S.Pd.</h5>
+                            <h6 class="card-title">Siti Khotimah, S.Pd.</h6>
                             <p class="card-text">Pengelola Data dan Dokumen Perpajakan</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
-                    <div class="card border-light">
+                    <div class="card border-light h-100">
                         <img src="./assets/images/person-1.jpg" class="card-img-top" alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Sela Naufal Linda, A.Md.</h5>
+                            <h6 class="card-title">Sela Naufal Linda, A.Md.</h6>
                             <p class="card-text">Pengadministrasi Pajak</p>
                         </div>
                     </div>
