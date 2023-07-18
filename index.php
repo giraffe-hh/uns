@@ -63,6 +63,7 @@
             </div>
         </div>
     </section> -->
+    
     <!-- HOME -->
     <section id="home" class="min-vh-100 d-flex align-items-center text-center">
         <div id="imageCarousel" class="carousel slide container-fluid px-0" data-bs-ride="carousel">
@@ -70,14 +71,14 @@
                 <div class="carousel-item active">
                     <img src="./assets/images/carousel-1.jpg" class="d-block w-100 carousel-image" alt="Slide 1">
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 data-aos="fade-left" class="text-white fw-semibold display-4">WELCOME TO UNS</h1>
+                        <h1 data-aos="fade-left" class="text-white fw-semibold display-4">SELAMAT DATANG<br>DIREKTORAT KEUANGAN DAN OPTIMALISASI ASSET</h1>
                         <h3 class="text-white mt-3 mb-4" data-aos="fade-right">Universitas Sebelas Maret</h3>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img src="./assets/images/carousel-2.jpg" class="d-block w-100 carousel-image" alt="Slide 2">
                     <div class="carousel-caption d-none d-md-block">
-                        <h1 data-aos="fade-left" class="text-white fw-semibold display-4">WELCOME TO UNS</h1>
+                        <h1 data-aos="fade-left" class="text-white fw-semibold display-4">SELAMAT DATANG<br>DIREKTORAT KEUANGAN DAN OPTIMALISASI ASSET</h1>
                         <h3 class="text-white mt-3 mb-4" data-aos="fade-right">Universitas Sebelas Maret</h3>
                     </div>
                 </div>
